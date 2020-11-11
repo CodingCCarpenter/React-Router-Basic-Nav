@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background: black;
+  padding-bottom: 80%;
 }
 
 .Nav-link {
@@ -8,4 +10,18 @@
 
 .nav-item {
   margin-top: 1rem;
+  margin-right: 10%;
+}
+.nav{
+  display: flex;
+  justify-content: flex-end;
+}
+h1, h2, h3{
+  color: gray;
+  box-sizing: border-box;
+  padding: 12%;
+}
+.img{
+  width: 70%;
+  margin: 0 auto;
 }
